@@ -49,7 +49,7 @@ const page = () => {
           <div className="md:border-x-0 py-8 border-x border-theme-light flex w-full justify-center items-center">
           
           <Image
-              src="/Madhan-2.jpg"
+              src="/https://github.com/MadhanBabuUradi/portfolio/blob/main/Public/Madhan-2.jpg"
               width={2000}
               height={2000}
               alt="Madhan Babu Uradi"
