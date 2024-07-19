@@ -48,13 +48,7 @@ const page = () => {
         <div className="px-10 md:p-0 md:w-3/12 text-center text-6xl font-bold md:order-2 flex justify-center items-center ">
           <div className="md:border-x-0 py-8 border-x border-theme-light flex w-full justify-center items-center">
           
-          <Image
-              src="/https://github.com/MadhanBabuUradi/portfolio/blob/main/Public/Madhan-2.jpg"
-              width={2000}
-              height={2000}
-              alt="Madhan Babu Uradi"
-              class="w-10/12 rounded-lg md:rounded-lg"
-            />
+          <img src={"/Madhan-2.jpg"} alt=""  class="w-10/12 rounded-lg md:rounded-lg"/>
             
           </div>
         </div>

@@ -5,19 +5,19 @@ const Card = () => {
   const projects = [
     {
       name: "Landing Page",
-      image: "/https://github.com/MadhanBabuUradi/portfolio/blob/main/Public/LandingPage.png",
+      image: "/LandingPage.png",
       technologies: ["HTML", "CSS", "Js"],
       link: "https://madhanbabuuradi.github.io/LandingPage/",
     },
     {
       name: "Retro",
-      image: "/https://github.com/MadhanBabuUradi/portfolio/blob/main/Public/Retro%20Theam%20Website.jpg",
+      image: "/Retro Theam Website.jpg",
       technologies: ["React", "SCSS", "GSAP", "Locomotive Scroll"],
       link: "https://retro-website-qr2k.vercel.app/",
     },
     {
       name: "Shopping HUB",
-      image: "/https://github.com/MadhanBabuUradi/portfolio/blob/main/Public/Shopping%20HUB.jpg",
+      image: "/Shopping HUB.jpg",
       technologies: ["React", "CSS", "HTML","JS", "....more"],
       link: "https://madhanbabuuradi.github.io/Shopping-HUB-Website/"
     },
